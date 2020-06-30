@@ -1,6 +1,5 @@
 import React from "react";
 
-import { AppContainer } from "react-hot-loader";
 import { Provider } from "react-redux";
 import BootstrapProvider from "@bootstrap-styled/provider/lib/BootstrapProvider";
 import { createGlobalStyle } from "styled-components";

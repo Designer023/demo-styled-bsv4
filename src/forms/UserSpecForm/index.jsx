@@ -2,13 +2,11 @@ import React from "react";
 import { Field, reduxForm } from "redux-form";
 
 import {
-  Alert,
   Row,
   Col,
   Form,
   FormGroup,
   FormText,
-  Label,
   Button,
 } from "@bootstrap-styled/v4";
 
